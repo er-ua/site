@@ -1,2 +1,2 @@
 
-See https://github.com/er-ua/site/wiki/_ for entry point.
+See [entry point](https://github.com/er-ua/site/wiki/_)  .
